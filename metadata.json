@@ -1,0 +1,5 @@
+{
+  "name": "KhmerTextKaraokeMaker",
+  "description": "A web application to design and generate stylized Khmer text images, optimized for karaoke video production. Users can input text, customize two different styles with various fonts, colors, and strokes, preview the results in real-time, and download the generated images individually or as a complete ZIP package.",
+  "requestFramePermissions": []
+}
